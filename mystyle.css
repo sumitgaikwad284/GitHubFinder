@@ -1,0 +1,25 @@
+body, .card, footer, .myul {
+  color: #a3f7bf;
+  background-color: #393e46;
+}
+
+.mynav {
+  background-color: #29a19c ;
+}
+
+a {
+  text-decoration: none !important;
+}
+.myrepocolor { 
+  color: #ff8ba7;
+}
+ 
+.myrepocolor:hover {   
+  color: #ff8ba7;
+  opacity: .8;
+}
+
+
+#searchUser {
+  background-color: #fffdf9;
+}
